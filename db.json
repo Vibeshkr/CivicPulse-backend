@@ -550,6 +550,15 @@
       "isActive": true,
       "createdAt": "2026-10-19T07:56:14.060Z",
       "id": "fSl2d-GF8Q8"
+    },
+    {
+      "name": "VIBESH KR",
+      "email": "vibeshkr3@gmail.com",
+      "password": "UuzFQJ2geX2w4wv",
+      "role": "resident",
+      "isActive": true,
+      "createdAt": "2026-10-21T07:00:03.165Z",
+      "id": "i0YYTjceaqU"
     }
   ],
   "maintenanceTeams": [
